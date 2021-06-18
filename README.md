@@ -1,5 +1,5 @@
 
-# Simple Quiz play created using tkinter.This Game comprises of Two parts:
+# Simple Quiz play created using tkinter.This play comprises of Two parts:
 
 Admin.py
 Quizle.py
